@@ -1,0 +1,115 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.2.1345133211.1679484112",
+      "domain": ".memory.ai",
+      "path": "/",
+      "expires": 1714044111.592483,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.791863629.1679484112",
+      "domain": ".memory.ai",
+      "path": "/",
+      "expires": 1679570511,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_memory_session",
+      "value": "1e89789b745d24a7cdecaede7a37696c",
+      "domain": ".memory.ai",
+      "path": "/",
+      "expires": 1680088911.794487,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_memory_session",
+      "value": "1e89789b745d24a7cdecaede7a37696c",
+      "domain": ".dewo.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ajs_anonymous_id",
+      "value": "4350008c-a46c-4d32-8939-3bdb4e28f969",
+      "domain": ".memory.ai",
+      "path": "/",
+      "expires": 1711020112,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".memory.ai",
+      "path": "/",
+      "expires": 1679484172,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_use_memory_session",
+      "value": "true",
+      "domain": "app.dewo.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "DEWO_AUTH",
+      "value": "Fe26.2*1*c24d44e2a21544747eb5dee4e718911faf488cc032d1373f62c65fd86bbb2468*BeC4aH4LZ3iglD8ZKsUcJg*Mcop8JrKWdoTk08Xz5lu0qPrL_beSo2tc3uxRigw3eFrYM2uQrS6InQyhEAr2Pvh2QKBN-4nBJ-vaKU5g0fsrbYbMTMmV3JmVwzckE9zNGswy0Ab6CZcOalX-bWeXysShS62A9sURpN77hU9uRRAJOC64wJHu7T5uW08Eoo2Vwcw_peFtEYGX4do6lk1JyGa*1680780112293*8ce58c1aa3bc8b8e1cf87def7423296146f31ab941b7f8f9a6e79bd050dde2c2*JZimj1aRwI8aDvJ43TZ_G_BfYOuTLdjRvRw5dGyoxh0~2",
+      "domain": "app.dewo.io",
+      "path": "/",
+      "expires": 1680780052.266281,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://auth.memory.ai",
+      "localStorage": [
+        {
+          "name": "analytics_session_id.last_access",
+          "value": "1679484112113"
+        },
+        {
+          "name": "ajs_user_id",
+          "value": "null"
+        },
+        {
+          "name": "persisted-queue:v1:dest-Segment.io:items",
+          "value": "[{\"id\":\"008ca46c-3d32-4939-bbdb-4e28f969ff0f\",\"event\":{\"timestamp\":\"2023-03-22T11:21:52.110Z\",\"integrations\":{\"Actions Amplitude\":{\"session_id\":1679484112113}},\"anonymousId\":\"4350008c-a46c-4d32-8939-3bdb4e28f969\",\"type\":\"page\",\"properties\":{\"path\":\"/login\",\"referrer\":\"\",\"search\":\"?redirect_to=https%3A%2F%2Fapp.dewo.io%2Ftoken-handshake\",\"title\":\"Log in to Timely - Memory\",\"url\":\"https://auth.memory.ai/login?redirect_to=https%3A%2F%2Fapp.dewo.io%2Ftoken-handshake\",\"platform\":\"Web\",\"category\":\"Web\",\"name\":\"Sessions New\"},\"category\":\"Web\",\"name\":\"Sessions New\",\"context\":{\"page\":{\"path\":\"/login\",\"referrer\":\"\",\"search\":\"?redirect_to=https%3A%2F%2Fapp.dewo.io%2Ftoken-handshake\",\"title\":\"Log in to Timely - Memory\",\"url\":\"https://auth.memory.ai/login?redirect_to=https%3A%2F%2Fapp.dewo.io%2Ftoken-handshake\"}},\"messageId\":\"ajs-next-59fd8b6f2a0daa2b738bd0c9e1f2930e\"},\"logs\":[{\"level\":\"debug\",\"message\":\"Dispatching\",\"time\":\"2023-03-22T11:21:52.110Z\"},{\"level\":\"debug\",\"message\":\"plugin\",\"time\":\"2023-03-22T11:21:52.111Z\",\"extras\":{\"plugin\":\"Event Validation\"}},{\"level\":\"debug\",\"message\":\"plugin\",\"time\":\"2023-03-22T11:21:52.111Z\",\"extras\":{\"plugin\":\"Page Enrichment\"}},{\"level\":\"debug\",\"message\":\"plugin\",\"time\":\"2023-03-22T11:21:52.112Z\",\"extras\":{\"plugin\":\"Schema Filter\"}},{\"level\":\"debug\",\"message\":\"plugin\",\"time\":\"2023-03-22T11:21:52.112Z\",\"extras\":{\"plugin\":\"Actions Amplitude\"}},{\"level\":\"debug\",\"message\":\"plugin\",\"time\":\"2023-03-22T11:21:52.114Z\",\"extras\":{\"plugin\":\"FullStory\"}},{\"level\":\"debug\",\"message\":\"plugin\",\"time\":\"2023-03-22T11:21:52.115Z\",\"extras\":{\"plugin\":\"Intercom\"}},{\"level\":\"debug\",\"message\":\"plugin\",\"time\":\"2023-03-22T11:21:52.115Z\",\"extras\":{\"plugin\":\"Google Analytics\"}},{\"level\":\"debug\",\"message\":\"plugin\",\"time\":\"2023-03-22T11:21:52.115Z\",\"extras\":{\"plugin\":\"HubSpot\"}},{\"level\":\"debug\",\"message\":\"plugin\",\"time\":\"2023-03-22T11:21:52.123Z\",\"extras\":{\"plugin\":\"Segment.io\"}}],\"metrics\":[{\"metric\":\"message_dispatched\",\"value\":1,\"tags\":[],\"type\":\"counter\",\"timestamp\":1679484112110},{\"metric\":\"plugin_time\",\"value\":0,\"tags\":[\"plugin:Event Validation\"],\"type\":\"gauge\",\"timestamp\":1679484112111},{\"metric\":\"plugin_time\",\"value\":1,\"tags\":[\"plugin:Page Enrichment\"],\"type\":\"gauge\",\"timestamp\":1679484112112},{\"metric\":\"plugin_time\",\"value\":0,\"tags\":[\"plugin:Schema Filter\"],\"type\":\"gauge\",\"timestamp\":1679484112112},{\"metric\":\"plugin_time\",\"value\":2,\"tags\":[\"plugin:Actions Amplitude\"],\"type\":\"gauge\",\"timestamp\":1679484112114},{\"metric\":\"analytics_js.integration.invoke\",\"value\":1,\"tags\":[\"method:page\",\"integration_name:FullStory\"],\"type\":\"counter\",\"timestamp\":1679484112115},{\"metric\":\"analytics_js.integration.invoke\",\"value\":1,\"tags\":[\"method:page\",\"integration_name:Intercom\"],\"type\":\"counter\",\"timestamp\":1679484112116},{\"metric\":\"analytics_js.integration.invoke\",\"value\":1,\"tags\":[\"method:page\",\"integration_name:Google Analytics\"],\"type\":\"counter\",\"timestamp\":1679484112116},{\"metric\":\"analytics_js.integration.invoke\",\"value\":1,\"tags\":[\"method:page\",\"integration_name:HubSpot\"],\"type\":\"counter\",\"timestamp\":1679484112122},{\"metric\":\"plugin_time\",\"value\":9,\"tags\":[\"plugin:FullStory\"],\"type\":\"gauge\",\"timestamp\":1679484112123},{\"metric\":\"plugin_time\",\"value\":8,\"tags\":[\"plugin:Intercom\"],\"type\":\"gauge\",\"timestamp\":1679484112123},{\"metric\":\"plugin_time\",\"value\":8,\"tags\":[\"plugin:Google Analytics\"],\"type\":\"gauge\",\"timestamp\":1679484112123},{\"metric\":\"plugin_time\",\"value\":8,\"tags\":[\"plugin:HubSpot\"],\"type\":\"gauge\",\"timestamp\":1679484112123},{\"metric\":\"message_delivered\",\"value\":1,\"tags\":[],\"type\":\"counter\",\"timestamp\":1679484112123}]}]"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"4350008c-a46c-4d32-8939-3bdb4e28f969\""
+        },
+        {
+          "name": "persisted-queue:v1:dest-Segment.io:seen",
+          "value": "{\"008ca46c-3d32-4939-bbdb-4e28f969ff0f\":1}"
+        },
+        {
+          "name": "analytics_session_id",
+          "value": "1679484112113"
+        }
+      ]
+    }
+  ]
+}
